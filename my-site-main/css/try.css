@@ -1,0 +1,23 @@
+.top-div {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+.middle-div {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 200px;
+  bottom: 200px;
+}
+
+.bottom-div {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  left: 400px;
+  bottom: 400px;
+}
